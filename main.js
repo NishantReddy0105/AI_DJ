@@ -100,7 +100,6 @@ function draw() {
 
 function play() {
     song.play();
-    song.rate(1);
 }
 
 function pause() {
